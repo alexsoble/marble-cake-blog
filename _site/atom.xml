@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Marble Cake Gov</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-02-15T17:26:44-08:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Alex Soble</name>
+   <email>none</email>
+ </author>
+
+ 
+ <entry>
+   <title>Making Things Work in the Marble Cake</title>
+   <link href="http://localhost:4000/2022/02/15/making-things-work-in-the-marble-cake/"/>
+   <updated>2022-02-15T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2022/02/15/making-things-work-in-the-marble-cake</id>
+   <content type="html">&lt;div class=&quot;message&quot;&gt;
+	&lt;i&gt;bottom line(s) up front&lt;/i&gt;:
+	&lt;li&gt;Making things work in United States government usually involves many layers of government: federal, state, local, tribal, territorial.&lt;/li&gt;
+	&lt;li&gt;Important programs get stuck or slowed down when governments&apos; different layers don&apos;t operate well together.&lt;/li&gt;
+&lt;/div&gt;
+&lt;div class=&quot;message&quot;&gt;
+	&lt;i&gt;disclaimer&lt;/i&gt;:
+	&lt;br /&gt;
+	This is a personal blog. Views expressed here do not represent my employer.
+&lt;/div&gt;
+
+&lt;p&gt;Getting things done in U.S. government usually involves not one, but many different kinds of government: federal, state, county, municipal, tribal, territorial.&lt;/p&gt;
+
+&lt;p&gt;This matters for almost every public goal. Want to upgrade transportation infrastructure? Most of the funding comes from the federal government, but state governments decide how to spend it. Want to deliver public benefits to help people pay for food or medical care? Most benefits programs (think SNAP or Medicaid) are federally funded, but administered by state and county governments.&lt;/p&gt;
+
+&lt;p&gt;In the 1960s, a professor named Morton Grodzins compared these interlocking layers of government in U.S. federalism to a swirling marble cake:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The American form of government is often, but erroneously, symbolized by a three-layer cake. A far more accurate image is the rainbow or marble cake, characterized by an inseparable mingling of differently colored ingredients, the colors appearing in vertical and diagonal strands and unexpected whirls. As colors are mixed in the marble cake, so functions are mixed in the American federal system.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;His goal was to describe messy, real-world U.S. federalism, where multiple layers of government need to work together to accomplish anything.&lt;/p&gt;
+
+&lt;p&gt;This metaphor from the ’60s still feels spot on. Important programs get stuck or slowed down when governments’ different layers don’t operate well together. Following headlines and reports about programs like unemployment insurance and emergency rental aid, I’ve seen the challenging &amp;amp; complex interplay between federal, state, county, and local governments recur as a theme.&lt;/p&gt;
+
+&lt;p&gt;My goal with this blog is to “learn out loud” on the topic. I’m starting with a big, broad, potentially naive question in mind: “How can we make things work better across different layers of government?”&lt;/p&gt;
+
+&lt;p&gt;I’m hoping this blog will lead me to ask new questions; introduce me to keywords I haven’t thought to search on, papers I hadn’t heard of, doers and experts I haven’t known to talk to. If you think I’m missing something important as I go – please fill me in! You can reach me at &lt;a href=&quot;https://twitter.com/alexsoble&quot;&gt;@alexsoble&lt;/a&gt; on Twitter.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading along!&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
