@@ -46,7 +46,7 @@ If you've worked in U.S. state, local, federal, tribal, or territorial governmen
 	> _... it seems absurd that patients should be subjects of the laboratory of the states because of their poverty. This variation speaks volumes about the devalued status of the health of the poor...
 	The assumption that the states are an effective organizational principle for delivery of healthcare is too simple; after all, a diabetic’s need for a kidney transplant does not change when she crosses the line between Arizona and New Mexico, but only one state covers the procedure in its Medicaid program._
 
-	In _Fragmented Democracy: Medicaid, Federalism, and Unequal Politics_, Jamila Michener looks how Medicaid's highly decentralized nature impacts Medicaid beneficiaries' democratic political participation.
+	In _Fragmented Democracy: Medicaid, Federalism, and Unequal Politics_, Jamila Michener explores how Medicaid's highly decentralized structure impacts Medicaid beneficiaries' democratic political participation.
 
 [^3]:
 	_[Which States Rely the Most on Federal Aid?](https://taxfoundation.org/state-federal-aid-reliance-2020/)_. Janelle Cammenga, Tax Foundation. February 12, 2020.

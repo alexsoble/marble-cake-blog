@@ -1,4 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-15T18:35:59-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Marble Cake Gov</title><subtitle>A blog about public sector tech in multi-layered democracy. Made by &lt;a href=&quot;https://twitter.com/alexsoble&quot;&gt;@alexsoble&lt;/a&gt;.</subtitle><author><name>Alex Soble</name><email>none</email></author><entry><title type="html">Making Things Work in the Marble Cake</title><link href="http://localhost:4000/2022/02/15/making-things-work-in-the-marble-cake/" rel="alternate" type="text/html" title="Making Things Work in the Marble Cake" /><published>2022-02-15T00:00:00-08:00</published><updated>2022-02-15T00:00:00-08:00</updated><id>http://localhost:4000/2022/02/15/making-things-work-in-the-marble-cake</id><content type="html" xml:base="http://localhost:4000/2022/02/15/making-things-work-in-the-marble-cake/"><![CDATA[<div class="message">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-13T15:33:41-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Marble Cake Gov</title><subtitle>A blog about public sector tech in multi-layered democracy. Made by &lt;a href=&quot;https://twitter.com/alexsoble&quot;&gt;@alexsoble&lt;/a&gt;.</subtitle><author><name>Alex Soble</name><email>none</email></author><entry><title type="html">Federal Levers</title><link href="http://localhost:4000/2022/03/13/federal-levers/" rel="alternate" type="text/html" title="Federal Levers" /><published>2022-03-13T00:00:00-08:00</published><updated>2022-03-13T00:00:00-08:00</updated><id>http://localhost:4000/2022/03/13/federal-levers</id><content type="html" xml:base="http://localhost:4000/2022/03/13/federal-levers/"><![CDATA[<div class="message">
+	<i>disclaimer</i>:
+	<br />
+	This is a personal blog. Views expressed here do not represent my employer.
+</div>
+
+<p>I ended my last blog post with a question:  “How can we make things work better across different strands of government?” As far as questions go, this is pretty vague. What does “better” mean? And once we know what we mean by it, what can the federal government specifically do to push towards “better”?</p>
+
+<p>When asked how government could be better, many people might mention reducing paperwork. Last year, journalist Annie Lowrey wrote in <em><a href="https://www.theatlantic.com/politics/archive/2021/07/how-government-learned-waste-your-time-tax/619568/">The Time Tax</a></em>  about the administrative burdens of navigating bureaucracy in the United States: the many billions of hours Americans spend mired in administrative obstacles; the racist histories and policies behind these burdens; the academics and nonprofits pushing for a better way.</p>
+
+<p>Then came a federal mandate on administrative burdens. In December of last year, President Biden signed an <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/13/executive-order-on-transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government/">Executive Order on Transforming Federal Customer Experience</a>. Excellent <a href="https://gen.medium.com/not-so-magic-words-why-im-still-excited-about-president-biden-s-new-executive-order-on-customer-4ba868eb5d2c">writeups</a> and <a href="https://twitter.com/allafarce/status/1470777322454372359">Twitter</a> <a href="https://twitter.com/ae_fernandes/status/1470529467286179848">threads</a> have been written about it. The Order calls on specific federal agencies to do specific things, such as the Department of State delivering a new online passport renewal experience. One of the trickiest and most interesting angles to this goal is that a whole lot of benefits and services are administered at the state and local level, not the federal level.</p>
+
+<p>For example – I’m writing this post in California and I am a California resident.</p>
+
+<ul>
+  <li>When I moved to the state, I needed to register an out-of-state vehicle. I filled out the California DMV’s form <a href="https://www.dmv.ca.gov/portal/file/application-for-title-or-registration-reg-343-pdf/">REG 343</a>, waited twice in lines at the California DMV, and used the DMV’s phone line and website to try to figure out answers to my questions. (And, of course, <a href="https://twitter.com/alexsoble/status/1410976026742562824">tweeted</a>.)</li>
+  <li>If I become unemployed in California, I apply for unemployment on California’s <a href="https://edd.ca.gov/">Employment Development Department</a>.</li>
+  <li>If I need SNAP benefits, I can apply online with <a href="https://www.getcalfresh.org/">GetCalFresh</a>, an online application built by Code for America.</li>
+</ul>
+
+<p><strong>All of these are forms and processes managed at the state or local level, not the federal level.</strong> So the federal government wants to reduce administrative burdens and time taxes, but many of the forms that create administrative burdens and time taxes are not being created or managed by the federal government. What levers does the federal government have to reduce the time tax?<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+
+<p>Congress – the legislative branch of the federal government – certainly could make changes. As Annie Lowrey mentions in <em>The Time Tax</em>, Congress could pass laws to turn highly decentralized, complex, state-run programs like Medicaid into unitary federal programs: “federalize Medicaid.”<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> But let’s assume that Congress isn’t going to completely re-write the structure of safety net programs in the near future.</p>
+
+<p>How about the executive branch of the federal government, the president and the federal agencies? After all, this post started out talking about an Executive Order – so, what can the executive do to reduce administrative burdens at state &amp; local levels? Here are a couple of possibilities.</p>
+
+<ul>
+  <li><strong>Funding</strong>. The federal government funds lots of state &amp; local services. Federal funds make up between 20%-45% of state revenues, depending on the state.<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup> Does dispensing those funds give the federal government leverage to reduce administrative burdens? Which streams of funding involve federal oversight &amp; conditions, as opposed to streams with lots of state and local discretion?</li>
+  <li><strong>Guidance &amp; Oversight</strong>. Federal agencies do a lot of guidance-giving. They interpret laws and statues giving state agencies guidance on how to implement the law. Federal agencies also conduct oversight activities such as audits. Can the federal government use its guidance &amp; oversight roles to reduce administrative burdens at the state &amp; local levels? What are the opportunities, and what are the constraints?</li>
+  <li><strong>Shared Services</strong>. What if the federal government acted as a sort of central IT office, building technology that made accessing benefits simpler, and sharing that technology with states? Shared services are mentioned in the Executive Order, which calls for “common services and standards.” The proposed <em><a href="https://www.finance.senate.gov/imo/media/doc/Unemployment%20Insurance%20Technology%20Modernization%20Act%20of%202021%20Bill%20Text.pdf">Unemployment Insurance Technology Modernization Act of 2021</a></em> wanted the federal Department of Labor to “provide States with modular, open system technology capabilities and shared services to administer their unemployment compensation programs.”</li>
+</ul>
+
+<p>The U.S. government is vast, and I am just one person with very limited experience. I want to learn more.</p>
+
+<p>If you’ve worked in U.S. state, local, federal, tribal, or territorial governments, what do you think? What levers have you seen federal government use successfully to push for better outcomes? What’s missing from this list? Which are pulled too often, and which aren’t pulled often enough? You can reach me at <a href="https://twitter.com/alexsoble">@alexsoble</a> on Twitter – my ears are open!</p>
+
+<p><em>~ Footnotes ~</em></p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+
+      <p>My use of the term “levers” here very much influenced by Dave Guarino’s blog post: <em><a href="https://daguar.github.io/2019/08/06/technology-is-not-the-solution-nor-is-it-irrelevant-its-a-lever/">Technology is not the solution (nor is it irrelevant) — it’s a lever</a></em>. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+
+      <p>There are good arguments for federalizing Medicaid. In <em><a href="https://uknowledge.uky.edu/law_facpub/111/">Federalizing Medicaid</a></em>, Nicole Huberfeld confronts the logic of states as laboratories of democracy to make the case:</p>
+
+      <blockquote>
+        <p><em>… it seems absurd that patients should be subjects of the laboratory of the states because of their poverty. This variation speaks volumes about the devalued status of the health of the poor…
+The assumption that the states are an effective organizational principle for delivery of healthcare is too simple; after all, a diabetic’s need for a kidney transplant does not change when she crosses the line between Arizona and New Mexico, but only one state covers the procedure in its Medicaid program.</em></p>
+      </blockquote>
+
+      <p>In <em>Fragmented Democracy: Medicaid, Federalism, and Unequal Politics</em>, Jamila Michener explores how Medicaid’s highly decentralized structure impacts Medicaid beneficiaries’ democratic political participation. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+
+      <p><em><a href="https://taxfoundation.org/state-federal-aid-reliance-2020/">Which States Rely the Most on Federal Aid?</a></em>. Janelle Cammenga, Tax Foundation. February 12, 2020.</p>
+
+      <p>For a more in-depth, in-the-weeds report, see <em><a href="https://sgp.fas.org/crs/misc/R40638.pdf">Federal Grants to State and Local Governments: A Historical Perspective on Contemporary Issues</a></em> from the Congressional Research Service. May 22, 2019. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name>Alex Soble</name><email>none</email></author><summary type="html"><![CDATA[disclaimer: This is a personal blog. Views expressed here do not represent my employer.]]></summary></entry><entry><title type="html">Making Things Work in the Marble Cake</title><link href="http://localhost:4000/2022/02/15/making-things-work-in-the-marble-cake/" rel="alternate" type="text/html" title="Making Things Work in the Marble Cake" /><published>2022-02-15T00:00:00-08:00</published><updated>2022-02-15T00:00:00-08:00</updated><id>http://localhost:4000/2022/02/15/making-things-work-in-the-marble-cake</id><content type="html" xml:base="http://localhost:4000/2022/02/15/making-things-work-in-the-marble-cake/"><![CDATA[<div class="message">
 	<i>bottom line(s) up front</i>:
 	<li>Making things work in United States government usually involves many kinds of government: federal, state, local, tribal, territorial.</li>
 	<li>Important programs get stuck or slowed down when government's different strands don't work well together.</li>
