@@ -33,7 +33,9 @@ The U.S. government is vast, and I am just one person with very limited experien
 
 If you've worked in U.S. state, local, federal, tribal, or territorial governments, what do you think? What levers have you seen federal government use successfully to push for better outcomes? What's missing from this list? Which are pulled too often, and which aren't pulled often enough? You can reach me at <a href="https://twitter.com/alexsoble">@alexsoble</a> on Twitter -- my ears are open!
 
-*~ Footnotes ~*
+_Updated 13 March 2022:_ [Edited to clarify focus.](https://github.com/alexsoble/marble-cake-blog/commit/37e6d56d2ec8eb783fc7968f64d829bfedb66f32)
+
+~ Footnotes ~
 
 [^1]:
 	My use of the term "levers" here very much influenced by Dave Guarino's blog post: _[Technology is not the solution (nor is it irrelevant) — it's a lever](https://daguar.github.io/2019/08/06/technology-is-not-the-solution-nor-is-it-irrelevant-its-a-lever/)_.
