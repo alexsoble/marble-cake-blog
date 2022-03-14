@@ -23,9 +23,7 @@ For example -- I'm writing this post in California and I am a California residen
 
 **All of these are forms and processes managed at the state or local level, not the federal level.** So the federal government wants to reduce administrative burdens and time taxes, but many of the forms that create administrative burdens and time taxes are not being created or managed by the federal government. What levers does the federal government have to reduce the time tax?[^1]
 
-Congress -- the legislative branch of the federal government -- certainly could make changes. As Annie Lowrey mentions in _The Time Tax_, Congress could pass laws to turn highly decentralized, complex, state-run programs like Medicaid into unitary federal programs: "federalize Medicaid."[^2] But let's assume that Congress isn't going to completely re-write the structure of safety net programs in the near future.
-
-How about the executive branch of the federal government, the president and the federal agencies? After all, this post started out talking about an Executive Order -- so, what can the executive do to reduce administrative burdens at state & local levels? Here are a couple of possibilities.
+Congress -- the legislative branch of the federal government -- could make major structural changes.[^2] How about the executive branch of the federal government, the president and the federal agencies? After all, this post started out talking about an Executive Order -- so, what can the executive do to reduce administrative burdens at state & local levels? Here are a couple of possibilities.
 
 * **Funding**. The federal government funds lots of state & local services. Federal funds make up between 20%-45% of state revenues, depending on the state.[^3] Does dispensing those funds give the federal government leverage to reduce administrative burdens? Which streams of funding involve federal oversight & conditions, as opposed to streams with lots of state and local discretion?
 * **Guidance & Oversight**. Federal agencies do a lot of guidance-giving. They interpret laws and statues giving state agencies guidance on how to implement the law. Federal agencies also conduct oversight activities such as audits. Can the federal government use its guidance & oversight roles to reduce administrative burdens at the state & local levels? What are the opportunities, and what are the constraints?
@@ -41,12 +39,17 @@ If you've worked in U.S. state, local, federal, tribal, or territorial governmen
 	My use of the term "levers" here very much influenced by Dave Guarino's blog post: _[Technology is not the solution (nor is it irrelevant) — it's a lever](https://daguar.github.io/2019/08/06/technology-is-not-the-solution-nor-is-it-irrelevant-its-a-lever/)_.
 
 [^2]:
-	There are good arguments for federalizing Medicaid. In _[Federalizing Medicaid](https://uknowledge.uky.edu/law_facpub/111/)_, Nicole Huberfeld confronts the logic of states as laboratories of democracy to make the case:
+	Annie Lowrey argues in _The Time Tax_ that:
 
-	> _... it seems absurd that patients should be subjects of the laboratory of the states because of their poverty. This variation speaks volumes about the devalued status of the health of the poor...
-	The assumption that the states are an effective organizational principle for delivery of healthcare is too simple; after all, a diabetic’s need for a kidney transplant does not change when she crosses the line between Arizona and New Mexico, but only one state covers the procedure in its Medicaid program._
+	> ... the government needs to simplify. For safety-net programs, this means eliminating asset tests, work requirements, interviews, and other hassles. It means federalizing programs like unemployment insurance and Medicaid.
 
-	In _Fragmented Democracy: Medicaid, Federalism, and Unequal Politics_, Jamila Michener explores how Medicaid's highly decentralized structure impacts Medicaid beneficiaries' democratic political participation.
+	If you are curious about federalize-Medicaid arguments, see --  _[Federalizing Medicaid](https://uknowledge.uky.edu/law_facpub/111/)_, in which Nicole Huberfeld argues that the logic of states as laboratories of democracy doesn't hold up well when it comes to access to healthcare. And _Fragmented Democracy: Medicaid, Federalism, and Unequal Politics_, in which Jamila Michener explores how Medicaid's highly decentralized structure impacts Medicaid beneficiaries' democratic political participation.
+
+[^3]:
+	_[Which States Rely the Most on Federal Aid?](https://taxfoundation.org/state-federal-aid-reliance-2020/)_. Janelle Cammenga, Tax Foundation. February 12, 2020.
+
+	For a more in-depth, in-the-weeds report, see _[Federal Grants to State and Local Governments: A Historical Perspective on Contemporary Issues](https://sgp.fas.org/crs/misc/R40638.pdf)_ from the Congressional Research Service. May 22, 2019.
+impacts Medicaid beneficiaries' democratic political participation.
 
 [^3]:
 	_[Which States Rely the Most on Federal Aid?](https://taxfoundation.org/state-federal-aid-reliance-2020/)_. Janelle Cammenga, Tax Foundation. February 12, 2020.
