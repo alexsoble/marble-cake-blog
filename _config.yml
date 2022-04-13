@@ -7,7 +7,7 @@ description:         'A blog about public sector tech in multi-layered democracy
 
 url:                 https://alexsoble.github.io/marble-cake-blog
 
-baseurl:             ''
+baseurl:             https://alexsoble.github.io/marble-cake-blog
 
 paginate:            5
 
