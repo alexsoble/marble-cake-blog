@@ -5,9 +5,9 @@ tagline:             ''
 description:         'A blog about public sector tech in multi-layered democracy.
                      Made by <a href="https://twitter.com/alexsoble">@alexsoble</a>.'
 
-url:                 https://alexsoble.github.io/marble-cake-blog
+url:                 https://alexsoble.github.io
 
-baseurl:             https://alexsoble.github.io/marble-cake-blog
+baseurl:             /marble-cake-blog
 
 paginate:            5
 
