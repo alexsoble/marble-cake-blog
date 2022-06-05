@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Marble Cake Gov</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2022-03-13T15:33:41-07:00</updated>
+ <link href="http://localhost:4000/marble-cake-blog/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/marble-cake-blog/"/>
+ <updated>2022-06-05T11:54:37-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Alex Soble</name>
@@ -13,10 +13,79 @@
 
  
  <entry>
+   <title>Decentralization All The Way Down</title>
+   <link href="http://localhost:4000/2022/06/05/decentralization-all-the-way-down/"/>
+   <updated>2022-06-05T00:00:00-07:00</updated>
+   <id>http://localhost:4000/marble-cake-blog/2022/06/05/decentralization-all-the-way-down</id>
+   <content type="html">&lt;div class=&quot;message&quot;&gt;
+	&lt;i&gt;disclaimer&lt;/i&gt;:
+	&lt;br /&gt;
+	This is a personal blog. Views expressed here do not represent my employer.
+&lt;/div&gt;
+
+&lt;p&gt;In my last blog post I asked: “What levers does the federal government have to reduce the time tax?” The post got excellent replies on Twitter. Dan Hon noted that a mirror version of this question exists at the state level too:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;tbh for some states just getting them to reduce admin burden across counties would be a big deal&lt;/p&gt;&amp;mdash; Dan Hon (@hondanhon) &lt;a href=&quot;https://twitter.com/hondanhon/status/1503156577523490816?ref_src=twsrc%5Etfw&quot;&gt;March 13, 2022&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;states--counties&quot;&gt;States &amp;amp; Counties&lt;/h2&gt;
+
+&lt;p&gt;I recently opened up the &lt;a href=&quot;https://fns-prod.azureedge.us/sites/default/files/snap/14-State-Options.pdf&quot;&gt;USDA Food and Nutrition Service State Options Report&lt;/a&gt;. It’s a guide to all of the variations in the SNAP food assistance program across states. &lt;a href=&quot;https://fns-prod.azureedge.us/sites/default/files/snap/14-State-Options.pdf&quot;&gt;Open up the report&lt;/a&gt; and scroll through its kaleidoscopic maps to get a visual idea of how SNAP programs differ across states.&lt;/p&gt;
+
+&lt;p&gt;The first entry (page 12) is about which states have chosen to decentralize SNAP administration to the county level. Ten states share SNAP administration with county agencies, while 43 states and territories have a more centralized model:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/marble-cake-blog/public/img/snap-county-state-administered.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So SNAP administration is decentralized down to the county level, but not uniformly so.&lt;/p&gt;
+
+&lt;p&gt;Code for America’s two most well-known successes building online SNAP applications have been with county-administered states: &lt;a href=&quot;https://www.getcalfresh.org/&quot;&gt;GetCalFresh&lt;/a&gt; in California and &lt;a href=&quot;https://mnbenefits.mn.gov/&quot;&gt;MNBenefits&lt;/a&gt; in Minnesota.&lt;/p&gt;
+
+&lt;p&gt;GetCalFresh &lt;a href=&quot;https://codeforamerica.org/news/success-is-measured-in-the-people-we-serve/&quot;&gt;started with a single county&lt;/a&gt;. Dustin Palmer at Code for America wrote about &lt;a href=&quot;https://codeforamerica.org/news/four-lessons-from-our-journey-to-deliver-human-centered-integrated-benefits/&quot;&gt;welcoming complexity&lt;/a&gt; in choosing to work closely with Minnesota. Welcoming that complexity let CfA tackle challenges like how to improve outcomes when an application is sent to the wrong county by mistake:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;In the teeniest of victories, we worked with the stage to set up a forward button for apps sent to the wrong county (instead of faxing).&lt;br /&gt;&lt;br /&gt;Otoh, we initially tried to route apps based on USPS verified address and quickly learned it was less accurate than a counties drop-down.&lt;/p&gt;&amp;mdash; Dustin Palmer (@dustinbpalmer) &lt;a href=&quot;https://twitter.com/dustinbpalmer/status/1503169787001716740?ref_src=twsrc%5Etfw&quot;&gt;March 14, 2022&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Code for America is now working with a &lt;a href=&quot;https://codeforamerica.org/news/first-state-cohort-safety-net-innovation-lab/&quot;&gt;third county-administered state on food assistance, Colorado&lt;/a&gt;. I’m curious to see what CfA will learn and publish over time about how states can support counties in improving access to SNAP.&lt;/p&gt;
+
+&lt;h2 id=&quot;serving-city-departments&quot;&gt;Serving City Departments&lt;/h2&gt;
+
+&lt;p&gt;I see similar themes of complexity around decentralization when I look at digital services in the city &amp;amp; county where I live, San Francisco. 🌉&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://sf.gov/departments/city-administrator/digital-services&quot;&gt;San Francisco Digital Services&lt;/a&gt; team partners with other departments to improve public services. The team has tackled interesting questions related to centralization &amp;amp; decentralization. Take a look at pages 63-65 of &lt;a href=&quot;https://sf.gov/sites/default/files/2022-02/SF_DigitalServiceStrategy.pdf&quot;&gt;San Francisco’s Digital Services Strategy&lt;/a&gt;. It shows a template for a workshop to discuss striking the balance between centralized/decentralized ways of organizing services across many axes, from visual brand to product development and policy governance.&lt;/p&gt;
+
+&lt;p&gt;San Francisco Digital Services is &lt;a href=&quot;https://digitalservices.sfgov.org/joinus/&quot;&gt;hiring for several roles&lt;/a&gt;, including a technical director. The whole &lt;a href=&quot;https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/743999813107231-technical-director-digital-services-0932-&quot;&gt;technical director position description&lt;/a&gt; is worth a read, but take a look at this section in particular:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Having established credibility and a track record of delivery, the [San Francisco Digital Services] team must now turn its attention to scaling. The team must scale its impact by empowering other departments to build services themselves, using platforms provided by Digital Services. Digital Services should become the source of standards, platforms, and microservices that allow the City to make services for residents accessible online. This will be achieved through training, support, standardization, shared platforms, and citywide policies.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I love the flexibility in this thinking about what empowering other city departments might look like. It encompasses standards, such as the city’s &lt;a href=&quot;https://sf.gov/reports/november-2021/digital-accessibility-and-inclusion-standard&quot;&gt;Digital Accessibility and Inclusion Standard&lt;/a&gt;. Good training and good policy development are core ways for the digital services team to support other departments.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-what--now-what&quot;&gt;So what / Now what&lt;/h2&gt;
+
+&lt;p&gt;Is “let’s share lessons learned” too cliché of a way to wrap this up?&lt;/p&gt;
+
+&lt;p&gt;Well … that’s where I’m going.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;San Francisco is an example of terrific work on service delivery thinking at the city level – in a city where services are spread across departments.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Code for America and many others are working on improving benefits delivery – including in states where benefits are administered by counties.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;There is strong federal interest right now in reducing administrative burdens – in a system where key services are delivered by states.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Decentralization runs deep in U.S. government. I would love to see different layers of government and nonprofits in conversation with each other – including, yes, sharing lessons learned – as they each think through this work.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Federal Levers</title>
    <link href="http://localhost:4000/2022/03/13/federal-levers/"/>
    <updated>2022-03-13T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2022/03/13/federal-levers</id>
+   <id>http://localhost:4000/marble-cake-blog/2022/03/13/federal-levers</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
 	&lt;i&gt;disclaimer&lt;/i&gt;:
 	&lt;br /&gt;
@@ -39,9 +108,7 @@
 
 &lt;p&gt;&lt;strong&gt;All of these are forms and processes managed at the state or local level, not the federal level.&lt;/strong&gt; So the federal government wants to reduce administrative burdens and time taxes, but many of the forms that create administrative burdens and time taxes are not being created or managed by the federal government. What levers does the federal government have to reduce the time tax?&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;Congress – the legislative branch of the federal government – certainly could make changes. As Annie Lowrey mentions in &lt;em&gt;The Time Tax&lt;/em&gt;, Congress could pass laws to turn highly decentralized, complex, state-run programs like Medicaid into unitary federal programs: “federalize Medicaid.”&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; But let’s assume that Congress isn’t going to completely re-write the structure of safety net programs in the near future.&lt;/p&gt;
-
-&lt;p&gt;How about the executive branch of the federal government, the president and the federal agencies? After all, this post started out talking about an Executive Order – so, what can the executive do to reduce administrative burdens at state &amp;amp; local levels? Here are a couple of possibilities.&lt;/p&gt;
+&lt;p&gt;Congress – the legislative branch of the federal government – could make major structural changes.&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; How about the executive branch of the federal government, the president and the federal agencies? After all, this post started out talking about an Executive Order – so, what can the executive do to reduce administrative burdens at state &amp;amp; local levels? Here are a couple of possibilities.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Funding&lt;/strong&gt;. The federal government funds lots of state &amp;amp; local services. Federal funds make up between 20%-45% of state revenues, depending on the state.&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; Does dispensing those funds give the federal government leverage to reduce administrative burdens? Which streams of funding involve federal oversight &amp;amp; conditions, as opposed to streams with lots of state and local discretion?&lt;/li&gt;
@@ -53,7 +120,9 @@
 
 &lt;p&gt;If you’ve worked in U.S. state, local, federal, tribal, or territorial governments, what do you think? What levers have you seen federal government use successfully to push for better outcomes? What’s missing from this list? Which are pulled too often, and which aren’t pulled often enough? You can reach me at &lt;a href=&quot;https://twitter.com/alexsoble&quot;&gt;@alexsoble&lt;/a&gt; on Twitter – my ears are open!&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;~ Footnotes ~&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Updated 13 March 2022:&lt;/em&gt; &lt;a href=&quot;https://github.com/alexsoble/marble-cake-blog/commit/37e6d56d2ec8eb783fc7968f64d829bfedb66f32&quot;&gt;Edited to clarify focus.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;~ Footnotes ~&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
@@ -63,14 +132,13 @@
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
 
-      &lt;p&gt;There are good arguments for federalizing Medicaid. In &lt;em&gt;&lt;a href=&quot;https://uknowledge.uky.edu/law_facpub/111/&quot;&gt;Federalizing Medicaid&lt;/a&gt;&lt;/em&gt;, Nicole Huberfeld confronts the logic of states as laboratories of democracy to make the case:&lt;/p&gt;
+      &lt;p&gt;Annie Lowrey argues in &lt;em&gt;The Time Tax&lt;/em&gt; that:&lt;/p&gt;
 
       &lt;blockquote&gt;
-        &lt;p&gt;&lt;em&gt;… it seems absurd that patients should be subjects of the laboratory of the states because of their poverty. This variation speaks volumes about the devalued status of the health of the poor…
-The assumption that the states are an effective organizational principle for delivery of healthcare is too simple; after all, a diabetic’s need for a kidney transplant does not change when she crosses the line between Arizona and New Mexico, but only one state covers the procedure in its Medicaid program.&lt;/em&gt;&lt;/p&gt;
+        &lt;p&gt;… the government needs to simplify. For safety-net programs, this means eliminating asset tests, work requirements, interviews, and other hassles. It means federalizing programs like unemployment insurance and Medicaid.&lt;/p&gt;
       &lt;/blockquote&gt;
 
-      &lt;p&gt;In &lt;em&gt;Fragmented Democracy: Medicaid, Federalism, and Unequal Politics&lt;/em&gt;, Jamila Michener explores how Medicaid’s highly decentralized structure impacts Medicaid beneficiaries’ democratic political participation. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;If you are curious about federalize-Medicaid arguments, see –  &lt;em&gt;&lt;a href=&quot;https://uknowledge.uky.edu/law_facpub/111/&quot;&gt;Federalizing Medicaid&lt;/a&gt;&lt;/em&gt;, in which Nicole Huberfeld argues that the logic of states as laboratories of democracy doesn’t hold up well when it comes to access to healthcare. And &lt;em&gt;Fragmented Democracy: Medicaid, Federalism, and Unequal Politics&lt;/em&gt;, in which Jamila Michener explores how Medicaid’s highly decentralized structure impacts Medicaid beneficiaries’ democratic political participation. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
 
@@ -87,7 +155,7 @@ The assumption that the states are an effective organizational principle for del
    <title>Making Things Work in the Marble Cake</title>
    <link href="http://localhost:4000/2022/02/15/making-things-work-in-the-marble-cake/"/>
    <updated>2022-02-15T00:00:00-08:00</updated>
-   <id>http://localhost:4000/2022/02/15/making-things-work-in-the-marble-cake</id>
+   <id>http://localhost:4000/marble-cake-blog/2022/02/15/making-things-work-in-the-marble-cake</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
 	&lt;i&gt;bottom line(s) up front&lt;/i&gt;:
 	&lt;li&gt;Making things work in United States government usually involves many kinds of government: federal, state, local, tribal, territorial.&lt;/li&gt;
