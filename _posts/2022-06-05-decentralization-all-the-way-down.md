@@ -19,7 +19,7 @@ I recently opened up the [USDA Food and Nutrition Service State Options Report](
 
 The first entry (page 12) is about which states have chosen to decentralize SNAP administration to the county level. Ten states share SNAP administration with county agencies, while 43 states and territories have a more centralized model:
 
-<img src="{{ '/public/img/snap-county-state-administered.png' | absolute_url }}" / alt="Map of United States and territories, showing 10 states colored orange to indicate county-administered SNAP programs and 43 colored light blue to indicate state-administered SNAP.">
+<img src="{{ '/public/img/snap-county-state-administered.png' | absolute_url }}" alt="Map of United States and territories, showing 10 states colored orange to indicate county-administered SNAP programs and 43 colored light blue to indicate state-administered SNAP." />
 
 So SNAP administration is decentralized down to the county level, but not uniformly so.
 
